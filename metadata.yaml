@@ -1,0 +1,29 @@
+_repo: Retail-Shoe-Salesmanship_54962
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Geuting, A. H.
+    gutenberg_agent_id: '48127'
+    url: http://www.gutenberg.org/2009/agents/48127
+  - agent_name: Conner, H. T.
+    gutenberg_agent_id: '48126'
+    url: http://www.gutenberg.org/2009/agents/48126
+  - agent_name: Butterworth, Frank
+    gutenberg_agent_id: '48125'
+    url: http://www.gutenberg.org/2009/agents/48125
+  - agent_name: Hamilton, George F.
+    gutenberg_agent_id: '48124'
+    url: http://www.gutenberg.org/2009/agents/48124
+description: ''
+gutenberg_issued: '2017-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54962'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Retail Shoe Salesmanship
+url: http://www.gutenberg.org/ebooks/54962
